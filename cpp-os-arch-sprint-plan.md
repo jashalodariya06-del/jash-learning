@@ -250,7 +250,7 @@ For each: write a short README with **design decisions + tradeoffs**. Interviewe
 
 ## Final interview-prep checklist
 
-- [ ] 150+ DSA problems solved in C++ (arrays, strings, trees, graphs, DP, sliding window)
+- [ c] 150+ DSA problems solved in C++ (arrays, strings, trees, graphs, DP, sliding window)
 - [ ] Can explain vtables, RAII, smart pointers, move semantics **without notes**
 - [ ] Can solve deadlock / scheduling / paging numericals under time pressure
 - [ ] Can compute cache hit rate / AMAT and explain pipeline hazards
